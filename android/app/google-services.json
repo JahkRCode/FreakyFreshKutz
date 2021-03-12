@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "942711404206",
+    "firebase_url": "https://freakyfreshkutz-c2f7f.firebaseio.com",
+    "project_id": "freakyfreshkutz-c2f7f",
+    "storage_bucket": "freakyfreshkutz-c2f7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942711404206:android:9831767f51696fdc",
+        "android_client_info": {
+          "package_name": "com.safires.freakyfreshkutz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942711404206-g84kjan55oudb35ohjt1mfcjcpag4sbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMjDYWBJ4ORp16c1FKwMA2wiam4eRKt6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942711404206-g84kjan55oudb35ohjt1mfcjcpag4sbo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942711404206-h5at8gb7ubd61u4a404bs6uoiblhnv1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.freakyfreshkutz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
